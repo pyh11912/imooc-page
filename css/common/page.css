@@ -1,0 +1,6 @@
+.pagination{width:1200px;text-align:center;margin: 25px auto auto;overflow: hidden;}
+.pagination a{margin: 0 8px; color: #4d555d;  border-radius: 16px;  -webkit-transition: border-color .2s;  -moz-transition: border-color .2s;  transition: border-color .2s;    padding: 0 4px;  min-width: 24px;  line-height: 32px;  font-size: 14px;  display: inline-block;  text-align: center;}
+.page-item.active{background-color:#4d555d;color:#fff;}
+.page-item.active:hover{background-color:#4d555d;color:#fff;}
+.page-item:hover{background-color:#D9DDE1}
+a.page-disabled{color:#c8cdd2}
